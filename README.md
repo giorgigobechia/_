@@ -7,14 +7,11 @@
 <img src="https://raw.githubusercontent.com/giorgigobechia/giorgigobechia/output/snake.svg" alt="Snake animation" />
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=giorgigobechia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=giorgigobechia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgigobechia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=giorgigobechia&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
